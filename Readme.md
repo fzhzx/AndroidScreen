@@ -4,6 +4,4 @@
 
 # 演示
 
-![](.\img\1.png)
-
 ![首页](https://github.com/fzhzx/AndroidScreen/blob/master/img/1.png)
